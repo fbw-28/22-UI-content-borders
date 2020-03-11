@@ -1,0 +1,45 @@
+.border-box {
+    background: #eee;
+    margin: 0 0 20px;
+    padding: 20px;
+    width: 300px;
+
+}
+
+.wrapper {
+    width: fit-content;
+    text-align: center;
+    margin: auto;
+}
+
+#box-1 {
+    border: 2px solid #111;
+}
+
+#box-2 {
+    border: 2px dashed green;
+}
+
+#box-3 {
+    border: 2px dotted red;
+}
+
+#box-4 {
+    border: 6px double purple;
+}
+
+#box-5 {
+    border: solid thick orangered;
+}
+
+#box-6 {
+    border: thick dashed orange;
+}
+
+#box-7 {
+    border: dotted thick greenyellow;
+}
+
+#box-8 {
+    border: double thick powderblue;
+}
